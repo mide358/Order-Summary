@@ -31,7 +31,7 @@ Below is a screenshot of the completed work
 
 ### Links
 
-- Solution URL: [solution URL](https://mide-order.netlify.app/)
+- Solution URL: [solution URL](https://github.com/mide358/Order-Summary)
 - Live Site URL: [live site URL](https://mide-order.netlify.app/)
 
 ### Built with
